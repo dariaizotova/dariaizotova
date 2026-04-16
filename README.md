@@ -12,4 +12,4 @@
 - Devtools
 - Android Studio
 - YouTrack
-Для связи : https://t.me/IzotovaDari 
+# Для связи : https://t.me/IzotovaDari 
